@@ -1,0 +1,4 @@
+,Hiperparámetros 103,Valor
+0,hidden_layers,"(50, 50, 50)"
+1,Func_act,relu
+2,reg,1.3333333333333333
