@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"hora","STRING","19","0","0"
+"sala","STRING","7","0","0"
+"ocupacion","INTEGER","2","2","0"
