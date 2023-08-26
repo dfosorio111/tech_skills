@@ -1,0 +1,28 @@
+import pandas as pd
+import random
+
+# Number of samples
+n_samples = 1000
+
+# Generate the sample data
+data = {
+    'copy': [random.choice(["50% off!", "Buy now!", "Limited offer!", "Best in town!", "Hurry up!", "Don't miss out!"]) for _ in range(n_samples)],
+    'audience': [random.choice(["teens", "adults", "parents", "students", "elderly"]) for _ in range(n_samples)],
+    'keywords': [random.choice(["sale", "discount", "offer", "limited", "exclusive", "bestseller"]) for _ in range(n_samples)],
+    'time_of_day': [random.choice([i for i in range(24)]) for _ in range(n_samples)],  # 0 to 23 representing hours
+    'clicked': [random.choice([0, 1]) for _ in range(n_samples)]
+}
+
+# Convert dictionary to DataFrame
+df = pd.DataFrame(data)
+
+# Add some intentional patterns
+for i in range(n_samples):
+    if df.at[i, 'audience'] == 'elderly' and df.at[i, 'copy'] == "Hurry up!":
+        df.at[i, 'clicked'] = 0  # Elderly audience might not respond well to a 'Hurry up!' message
+    
+    if df.at[i, 'time_of_day'] >= 6 and df.at[i, 'time_of_day'] <= 11 and df.at[i, 'keywords'] == 'sale':
+        df.at[i, 'clicked'] = 1  # More people might click on 'sale' keyword ads in the morning hours
+
+# Save the dataset to a CSV file
+df.to_csv("ad_data.csv", index=False)
