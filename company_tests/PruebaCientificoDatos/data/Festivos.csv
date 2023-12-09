@@ -1,0 +1,351 @@
+Fecha,Tipo,Localidad,Ubicación,Descripcion,Transferidoido
+02/03/2012,Festivo,Local,Manta,Fundacion de Manta,FALSO
+01/04/2012,Festivo,Regional,Cotopaxi,Provincializacion de Cotopaxi,FALSO
+12/04/2012,Festivo,Local,Cuenca,Fundacion de Cuenca,FALSO
+14/04/2012,Festivo,Local,Libertad,Cantonizacion de Libertad,FALSO
+21/04/2012,Festivo,Local,Riobamba,Cantonizacion de Riobamba,FALSO
+12/05/2012,Festivo,Local,Puyo,Cantonizacion del Puyo,FALSO
+23/06/2012,Festivo,Local,Guaranda,Cantonizacion de Guaranda,FALSO
+25/06/2012,Festivo,Regional,Imbabura,Provincializacion de Imbabura,FALSO
+25/06/2012,Festivo,Local,Latacunga,Cantonizacion de Latacunga,FALSO
+25/06/2012,Festivo,Local,Machala,Fundacion de Machala,FALSO
+03/07/2012,Festivo,Local,Santo Domingo,Fundacion de Santo Domingo,FALSO
+03/07/2012,Festivo,Local,El Carmen,Cantonizacion de El Carmen,FALSO
+23/07/2012,Festivo,Local,Cayambe,Cantonizacion de Cayambe,FALSO
+05/08/2012,Festivo,Local,Esmeraldas,Fundacion de Esmeraldas,FALSO
+10/08/2012,Festivo,Nacional,Ecuador,Primer Grito de Independencia,FALSO
+15/08/2012,Festivo,Local,Riobamba,Fundacion de Riobamba,FALSO
+24/08/2012,Festivo,Local,Ambato,Fundacion de Ambato,FALSO
+28/09/2012,Festivo,Local,Ibarra,Fundacion de Ibarra,FALSO
+07/10/2012,Festivo,Local,Quevedo,Cantonizacion de Quevedo,FALSO
+09/10/2012,Festivo,Nacional,Ecuador,Independencia de Guayaquil,VERDADERO
+12/10/2012,Transferido,Nacional,Ecuador,Traslado Independencia de Guayaquil,FALSO
+02/11/2012,Festivo,Nacional,Ecuador,Dia de Difuntos,FALSO
+03/11/2012,Festivo,Nacional,Ecuador,Independencia de Cuenca,FALSO
+06/11/2012,Festivo,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,FALSO
+07/11/2012,Festivo,Regional,Santa Elena,Provincializacion Santa Elena,FALSO
+10/11/2012,Festivo,Local,Guaranda,Independencia de Guaranda,FALSO
+11/11/2012,Festivo,Local,Latacunga,Independencia de Latacunga,FALSO
+12/11/2012,Festivo,Local,Ambato,Independencia de Ambato,FALSO
+05/12/2012,Adicional,Local,Quito,Fundacion de Quito-1,FALSO
+06/12/2012,Festivo,Local,Quito,Fundacion de Quito,FALSO
+08/12/2012,Festivo,Local,Loja,Fundacion de Loja,FALSO
+21/12/2012,Adicional,Nacional,Ecuador,Navidad-4,FALSO
+22/12/2012,Festivo,Local,Salinas,Cantonizacion de Salinas,FALSO
+22/12/2012,Adicional,Nacional,Ecuador,Navidad-3,FALSO
+23/12/2012,Adicional,Nacional,Ecuador,Navidad-2,FALSO
+24/12/2012,Puente,Nacional,Ecuador,Puente Navidad,FALSO
+24/12/2012,Adicional,Nacional,Ecuador,Navidad-1,FALSO
+25/12/2012,Festivo,Nacional,Ecuador,Navidad,FALSO
+26/12/2012,Adicional,Nacional,Ecuador,Navidad+1,FALSO
+31/12/2012,Puente,Nacional,Ecuador,Puente Primer dia del ano,FALSO
+31/12/2012,Adicional,Nacional,Ecuador,Primer dia del ano-1,FALSO
+01/01/2013,Festivo,Nacional,Ecuador,Primer dia del ano,FALSO
+05/01/2013,Día de trabajo,Nacional,Ecuador,Recupero puente Navidad,FALSO
+12/01/2013,Día de trabajo,Nacional,Ecuador,Recupero puente primer dia del ano,FALSO
+11/02/2013,Festivo,Nacional,Ecuador,Carnaval,FALSO
+12/02/2013,Festivo,Nacional,Ecuador,Carnaval,FALSO
+02/03/2013,Festivo,Local,Manta,Fundacion de Manta,FALSO
+01/04/2013,Festivo,Regional,Cotopaxi,Provincializacion de Cotopaxi,FALSO
+12/04/2013,Festivo,Local,Cuenca,Fundacion de Cuenca,FALSO
+14/04/2013,Festivo,Local,Libertad,Cantonizacion de Libertad,FALSO
+21/04/2013,Festivo,Local,Riobamba,Cantonizacion de Riobamba,FALSO
+29/04/2013,Festivo,Nacional,Ecuador,Viernes Santo,FALSO
+01/05/2013,Festivo,Nacional,Ecuador,Dia del Trabajo,FALSO
+11/05/2013,Adicional,Nacional,Ecuador,Dia de la Madre-1,FALSO
+12/05/2013,Festivo,Local,Puyo,Cantonizacion del Puyo,FALSO
+12/05/2013,Evento,Nacional,Ecuador,Dia de la Madre,FALSO
+24/05/2013,Festivo,Nacional,Ecuador,Batalla de Pichincha,FALSO
+23/06/2013,Festivo,Local,Guaranda,Cantonizacion de Guaranda,FALSO
+25/06/2013,Festivo,Regional,Imbabura,Provincializacion de Imbabura,FALSO
+25/06/2013,Festivo,Local,Machala,Fundacion de Machala,FALSO
+25/06/2013,Festivo,Local,Latacunga,Cantonizacion de Latacunga,FALSO
+03/07/2013,Festivo,Local,El Carmen,Cantonizacion de El Carmen,FALSO
+03/07/2013,Festivo,Local,Santo Domingo,Fundacion de Santo Domingo,FALSO
+23/07/2013,Festivo,Local,Cayambe,Cantonizacion de Cayambe,FALSO
+24/07/2013,Adicional,Local,Guayaquil,Fundacion de Guayaquil-1,FALSO
+25/07/2013,Festivo,Local,Guayaquil,Fundacion de Guayaquil,FALSO
+05/08/2013,Festivo,Local,Esmeraldas,Fundacion de Esmeraldas,FALSO
+10/08/2013,Festivo,Nacional,Ecuador,Primer Grito de Independencia,FALSO
+15/08/2013,Festivo,Local,Riobamba,Fundacion de Riobamba,FALSO
+24/08/2013,Festivo,Local,Ambato,Fundacion de Ambato,FALSO
+28/09/2013,Festivo,Local,Ibarra,Fundacion de Ibarra,FALSO
+07/10/2013,Festivo,Local,Quevedo,Cantonizacion de Quevedo,FALSO
+09/10/2013,Festivo,Nacional,Ecuador,Independencia de Guayaquil,VERDADERO
+11/10/2013,Transferido,Nacional,Ecuador,Traslado Independencia de Guayaquil,FALSO
+02/11/2013,Festivo,Nacional,Ecuador,Dia de Difuntos,FALSO
+03/11/2013,Festivo,Nacional,Ecuador,Independencia de Cuenca,FALSO
+06/11/2013,Festivo,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,FALSO
+07/11/2013,Festivo,Regional,Santa Elena,Provincializacion Santa Elena,FALSO
+10/11/2013,Festivo,Local,Guaranda,Independencia de Guaranda,FALSO
+11/11/2013,Festivo,Local,Latacunga,Independencia de Latacunga,FALSO
+12/11/2013,Festivo,Local,Ambato,Independencia de Ambato,FALSO
+05/12/2013,Adicional,Local,Quito,Fundacion de Quito-1,FALSO
+06/12/2013,Festivo,Local,Quito,Fundacion de Quito,FALSO
+08/12/2013,Festivo,Local,Loja,Fundacion de Loja,FALSO
+21/12/2013,Adicional,Nacional,Ecuador,Navidad-4,FALSO
+22/12/2013,Adicional,Nacional,Ecuador,Navidad-3,FALSO
+22/12/2013,Festivo,Local,Salinas,Cantonizacion de Salinas,FALSO
+23/12/2013,Adicional,Nacional,Ecuador,Navidad-2,FALSO
+24/12/2013,Adicional,Nacional,Ecuador,Navidad-1,FALSO
+25/12/2013,Festivo,Nacional,Ecuador,Navidad,FALSO
+26/12/2013,Adicional,Nacional,Ecuador,Navidad+1,FALSO
+31/12/2013,Adicional,Nacional,Ecuador,Primer dia del ano-1,FALSO
+01/01/2014,Festivo,Nacional,Ecuador,Primer dia del ano,FALSO
+02/03/2014,Festivo,Local,Manta,Fundacion de Manta,FALSO
+03/03/2014,Festivo,Nacional,Ecuador,Carnaval,FALSO
+04/03/2014,Festivo,Nacional,Ecuador,Carnaval,FALSO
+01/04/2014,Festivo,Regional,Cotopaxi,Provincializacion de Cotopaxi,FALSO
+12/04/2014,Festivo,Local,Cuenca,Fundacion de Cuenca,FALSO
+14/04/2014,Festivo,Local,Libertad,Cantonizacion de Libertad,FALSO
+18/04/2014,Festivo,Nacional,Ecuador,Viernes Santo,FALSO
+21/04/2014,Festivo,Local,Riobamba,Cantonizacion de Riobamba,FALSO
+01/05/2014,Festivo,Nacional,Ecuador,Dia del Trabajo,FALSO
+10/05/2014,Adicional,Nacional,Ecuador,Dia de la Madre-1,FALSO
+11/05/2014,Evento,Nacional,Ecuador,Dia de la Madre,FALSO
+12/05/2014,Festivo,Local,Puyo,Cantonizacion del Puyo,FALSO
+24/05/2014,Festivo,Nacional,Ecuador,Batalla de Pichincha,FALSO
+12/06/2014,Evento,Nacional,Ecuador,Inauguracion Mundial de futbol Brasil,FALSO
+15/06/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Ecuador-Suiza,FALSO
+20/06/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Ecuador-Honduras,FALSO
+23/06/2014,Festivo,Local,Guaranda,Cantonizacion de Guaranda,FALSO
+25/06/2014,Festivo,Local,Latacunga,Cantonizacion de Latacunga,FALSO
+25/06/2014,Festivo,Local,Machala,Fundacion de Machala,FALSO
+25/06/2014,Festivo,Regional,Imbabura,Provincializacion de Imbabura,FALSO
+25/06/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Ecuador-Francia,FALSO
+28/06/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Octavos de Final,FALSO
+29/06/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Octavos de Final,FALSO
+30/06/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Octavos de Final,FALSO
+01/07/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Octavos de Final,FALSO
+03/07/2014,Festivo,Local,El Carmen,Cantonizacion de El Carmen,FALSO
+03/07/2014,Festivo,Local,Santo Domingo,Fundacion de Santo Domingo,FALSO
+04/07/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Cuartos de Final,FALSO
+05/07/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Cuartos de Final,FALSO
+08/07/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Semifinales,FALSO
+09/07/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Semifinales,FALSO
+12/07/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Tercer y cuarto lugar,FALSO
+13/07/2014,Evento,Nacional,Ecuador,Mundial de futbol Brasil: Final,FALSO
+23/07/2014,Festivo,Local,Cayambe,Cantonizacion de Cayambe,FALSO
+24/07/2014,Adicional,Local,Guayaquil,Fundacion de Guayaquil-1,FALSO
+25/07/2014,Festivo,Local,Guayaquil,Fundacion de Guayaquil,FALSO
+05/08/2014,Festivo,Local,Esmeraldas,Fundacion de Esmeraldas,FALSO
+10/08/2014,Festivo,Nacional,Ecuador,Primer Grito de Independencia,FALSO
+15/08/2014,Festivo,Local,Riobamba,Fundacion de Riobamba,FALSO
+24/08/2014,Festivo,Local,Ambato,Fundacion de Ambato,FALSO
+28/09/2014,Festivo,Local,Ibarra,Fundacion de Ibarra,FALSO
+07/10/2014,Festivo,Local,Quevedo,Cantonizacion de Quevedo,FALSO
+09/10/2014,Festivo,Nacional,Ecuador,Independencia de Guayaquil,VERDADERO
+10/10/2014,Transferido,Nacional,Ecuador,Traslado Independencia de Guayaquil,FALSO
+02/11/2014,Festivo,Nacional,Ecuador,Dia de Difuntos,FALSO
+03/11/2014,Festivo,Nacional,Ecuador,Independencia de Cuenca,FALSO
+06/11/2014,Festivo,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,FALSO
+07/11/2014,Festivo,Regional,Santa Elena,Provincializacion Santa Elena,FALSO
+10/11/2014,Festivo,Local,Guaranda,Independencia de Guaranda,FALSO
+11/11/2014,Festivo,Local,Latacunga,Independencia de Latacunga,FALSO
+12/11/2014,Festivo,Local,Ambato,Independencia de Ambato,FALSO
+28/11/2014,Evento,Nacional,Ecuador,Black Friday,FALSO
+01/12/2014,Evento,Nacional,Ecuador,Cyber Monday,FALSO
+05/12/2014,Adicional,Local,Quito,Fundacion de Quito-1,FALSO
+06/12/2014,Festivo,Local,Quito,Fundacion de Quito,FALSO
+08/12/2014,Festivo,Local,Loja,Fundacion de Loja,FALSO
+20/12/2014,Día de trabajo,Nacional,Ecuador,Recupero Puente Navidad,FALSO
+21/12/2014,Adicional,Nacional,Ecuador,Navidad-4,FALSO
+22/12/2014,Festivo,Local,Salinas,Cantonizacion de Salinas,FALSO
+22/12/2014,Adicional,Nacional,Ecuador,Navidad-3,FALSO
+23/12/2014,Adicional,Nacional,Ecuador,Navidad-2,FALSO
+24/12/2014,Adicional,Nacional,Ecuador,Navidad-1,FALSO
+25/12/2014,Festivo,Nacional,Ecuador,Navidad,FALSO
+26/12/2014,Puente,Nacional,Ecuador,Puente Navidad,FALSO
+26/12/2014,Adicional,Nacional,Ecuador,Navidad+1,FALSO
+31/12/2014,Adicional,Nacional,Ecuador,Primer dia del ano-1,FALSO
+01/01/2015,Festivo,Nacional,Ecuador,Primer dia del ano,FALSO
+02/01/2015,Puente,Nacional,Ecuador,Puente Primer dia del ano,FALSO
+10/01/2015,Día de trabajo,Nacional,Ecuador,Recupero Puente Primer dia del ano,FALSO
+16/02/2015,Festivo,Nacional,Ecuador,Carnaval,FALSO
+17/02/2015,Festivo,Nacional,Ecuador,Carnaval,FALSO
+02/03/2015,Festivo,Local,Manta,Fundacion de Manta,FALSO
+01/04/2015,Festivo,Regional,Cotopaxi,Provincializacion de Cotopaxi,FALSO
+03/04/2015,Festivo,Nacional,Ecuador,Viernes Santo,FALSO
+12/04/2015,Festivo,Local,Cuenca,Fundacion de Cuenca,FALSO
+14/04/2015,Festivo,Local,Libertad,Cantonizacion de Libertad,FALSO
+21/04/2015,Festivo,Local,Riobamba,Cantonizacion de Riobamba,FALSO
+01/05/2015,Festivo,Nacional,Ecuador,Dia del Trabajo,FALSO
+09/05/2015,Adicional,Nacional,Ecuador,Dia de la Madre-1,FALSO
+10/05/2015,Evento,Nacional,Ecuador,Dia de la Madre,FALSO
+12/05/2015,Festivo,Local,Puyo,Cantonizacion del Puyo,FALSO
+24/05/2015,Festivo,Nacional,Ecuador,Batalla de Pichincha,FALSO
+23/06/2015,Festivo,Local,Guaranda,Cantonizacion de Guaranda,FALSO
+25/06/2015,Festivo,Local,Machala,Fundacion de Machala,FALSO
+25/06/2015,Festivo,Regional,Imbabura,Provincializacion de Imbabura,FALSO
+25/06/2015,Festivo,Local,Latacunga,Cantonizacion de Latacunga,FALSO
+03/07/2015,Festivo,Local,El Carmen,Cantonizacion de El Carmen,FALSO
+03/07/2015,Festivo,Local,Santo Domingo,Fundacion de Santo Domingo,FALSO
+23/07/2015,Festivo,Local,Cayambe,Cantonizacion de Cayambe,FALSO
+24/07/2015,Festivo,Local,Guayaquil,Fundacion de Guayaquil-1,FALSO
+25/07/2015,Festivo,Local,Guayaquil,Fundacion de Guayaquil,FALSO
+05/08/2015,Festivo,Local,Esmeraldas,Fundacion de Esmeraldas,FALSO
+10/08/2015,Festivo,Nacional,Ecuador,Primer Grito de Independencia,FALSO
+15/08/2015,Festivo,Local,Riobamba,Fundacion de Riobamba,FALSO
+24/08/2015,Festivo,Local,Ambato,Fundacion de Ambato,FALSO
+28/09/2015,Festivo,Local,Ibarra,Fundacion de Ibarra,FALSO
+07/10/2015,Festivo,Local,Quevedo,Cantonizacion de Quevedo,FALSO
+09/10/2015,Festivo,Nacional,Ecuador,Independencia de Guayaquil,FALSO
+02/11/2015,Festivo,Nacional,Ecuador,Dia de Difuntos,FALSO
+03/11/2015,Festivo,Nacional,Ecuador,Independencia de Cuenca,FALSO
+06/11/2015,Festivo,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,FALSO
+07/11/2015,Festivo,Regional,Santa Elena,Provincializacion Santa Elena,FALSO
+10/11/2015,Festivo,Local,Guaranda,Independencia de Guaranda,FALSO
+11/11/2015,Festivo,Local,Latacunga,Independencia de Latacunga,FALSO
+12/11/2015,Festivo,Local,Ambato,Independencia de Ambato,FALSO
+27/11/2015,Evento,Nacional,Ecuador,Black Friday,FALSO
+30/11/2015,Evento,Nacional,Ecuador,Cyber Monday,FALSO
+05/12/2015,Adicional,Local,Quito,Fundacion de Quito-1,FALSO
+06/12/2015,Festivo,Local,Quito,Fundacion de Quito,FALSO
+08/12/2015,Festivo,Local,Loja,Fundacion de Loja,FALSO
+21/12/2015,Adicional,Nacional,Ecuador,Navidad-4,FALSO
+22/12/2015,Adicional,Nacional,Ecuador,Navidad-3,FALSO
+22/12/2015,Festivo,Local,Salinas,Cantonizacion de Salinas,FALSO
+23/12/2015,Adicional,Nacional,Ecuador,Navidad-2,FALSO
+24/12/2015,Adicional,Nacional,Ecuador,Navidad-1,FALSO
+25/12/2015,Festivo,Nacional,Ecuador,Navidad,FALSO
+26/12/2015,Adicional,Nacional,Ecuador,Navidad+1,FALSO
+31/12/2015,Adicional,Nacional,Ecuador,Primer dia del ano-1,FALSO
+01/01/2016,Festivo,Nacional,Ecuador,Primer dia del ano,FALSO
+08/02/2016,Festivo,Nacional,Ecuador,Carnaval,FALSO
+09/02/2016,Festivo,Nacional,Ecuador,Carnaval,FALSO
+02/03/2016,Festivo,Local,Manta,Fundacion de Manta,FALSO
+25/03/2016,Festivo,Nacional,Ecuador,Viernes Santo,FALSO
+01/04/2016,Festivo,Regional,Cotopaxi,Provincializacion de Cotopaxi,FALSO
+12/04/2016,Festivo,Local,Cuenca,Fundacion de Cuenca,FALSO
+14/04/2016,Festivo,Local,Libertad,Cantonizacion de Libertad,FALSO
+16/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi,FALSO
+17/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+1,FALSO
+18/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+2,FALSO
+19/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+3,FALSO
+20/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+4,FALSO
+21/04/2016,Festivo,Local,Riobamba,Cantonizacion de Riobamba,FALSO
+21/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+5,FALSO
+22/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+6,FALSO
+23/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+7,FALSO
+24/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+8,FALSO
+25/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+9,FALSO
+26/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+10,FALSO
+27/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+11,FALSO
+28/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+12,FALSO
+29/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+13,FALSO
+30/04/2016,Evento,Nacional,Ecuador,Terremoto Manabi+14,FALSO
+01/05/2016,Festivo,Nacional,Ecuador,Dia del Trabajo,FALSO
+01/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+15,FALSO
+02/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+16,FALSO
+03/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+17,FALSO
+04/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+18,FALSO
+05/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+19,FALSO
+06/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+20,FALSO
+07/05/2016,Adicional,Nacional,Ecuador,Dia de la Madre-1,FALSO
+07/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+21,FALSO
+08/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+22,FALSO
+08/05/2016,Evento,Nacional,Ecuador,Dia de la Madre,FALSO
+09/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+23,FALSO
+10/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+24,FALSO
+11/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+25,FALSO
+12/05/2016,Festivo,Local,Puyo,Cantonizacion del Puyo,FALSO
+12/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+26,FALSO
+13/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+27,FALSO
+14/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+28,FALSO
+15/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+29,FALSO
+16/05/2016,Evento,Nacional,Ecuador,Terremoto Manabi+30,FALSO
+24/05/2016,Festivo,Nacional,Ecuador,Batalla de Pichincha,VERDADERO
+27/05/2016,Transferido,Nacional,Ecuador,Traslado Batalla de Pichincha,FALSO
+23/06/2016,Festivo,Local,Guaranda,Cantonizacion de Guaranda,FALSO
+25/06/2016,Festivo,Local,Machala,Fundacion de Machala,FALSO
+25/06/2016,Festivo,Regional,Imbabura,Provincializacion de Imbabura,FALSO
+25/06/2016,Festivo,Local,Latacunga,Cantonizacion de Latacunga,FALSO
+03/07/2016,Festivo,Local,El Carmen,Cantonizacion de El Carmen,FALSO
+03/07/2016,Festivo,Local,Santo Domingo,Fundacion de Santo Domingo,FALSO
+23/07/2016,Festivo,Local,Cayambe,Cantonizacion de Cayambe,FALSO
+24/07/2016,Adicional,Local,Guayaquil,Fundacion de Guayaquil-1,FALSO
+24/07/2016,Transferido,Local,Guayaquil,Traslado Fundacion de Guayaquil,FALSO
+25/07/2016,Festivo,Local,Guayaquil,Fundacion de Guayaquil,VERDADERO
+05/08/2016,Festivo,Local,Esmeraldas,Fundacion de Esmeraldas,FALSO
+10/08/2016,Festivo,Nacional,Ecuador,Primer Grito de Independencia,VERDADERO
+12/08/2016,Transferido,Nacional,Ecuador,Traslado Primer Grito de Independencia,FALSO
+15/08/2016,Festivo,Local,Riobamba,Fundacion de Riobamba,FALSO
+24/08/2016,Festivo,Local,Ambato,Fundacion de Ambato,FALSO
+28/09/2016,Festivo,Local,Ibarra,Fundacion de Ibarra,FALSO
+07/10/2016,Festivo,Local,Quevedo,Cantonizacion de Quevedo,FALSO
+09/10/2016,Festivo,Nacional,Ecuador,Independencia de Guayaquil,FALSO
+02/11/2016,Festivo,Nacional,Ecuador,Dia de Difuntos,FALSO
+03/11/2016,Festivo,Nacional,Ecuador,Independencia de Cuenca,FALSO
+04/11/2016,Puente,Nacional,Ecuador,Puente Dia de Difuntos,FALSO
+06/11/2016,Festivo,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,FALSO
+07/11/2016,Festivo,Regional,Santa Elena,Provincializacion Santa Elena,FALSO
+10/11/2016,Festivo,Local,Guaranda,Independencia de Guaranda,FALSO
+11/11/2016,Festivo,Local,Latacunga,Independencia de Latacunga,FALSO
+12/11/2016,Festivo,Local,Ambato,Independencia de Ambato,FALSO
+12/11/2016,Día de trabajo,Nacional,Ecuador,Recupero Puente Dia de Difuntos,FALSO
+25/11/2016,Evento,Nacional,Ecuador,Black Friday,FALSO
+28/11/2016,Evento,Nacional,Ecuador,Cyber Monday,FALSO
+05/12/2016,Adicional,Local,Quito,Fundacion de Quito-1,FALSO
+06/12/2016,Festivo,Local,Quito,Fundacion de Quito,FALSO
+08/12/2016,Festivo,Local,Loja,Fundacion de Loja,FALSO
+21/12/2016,Adicional,Nacional,Ecuador,Navidad-4,FALSO
+22/12/2016,Adicional,Nacional,Ecuador,Navidad-3,FALSO
+22/12/2016,Festivo,Local,Salinas,Cantonizacion de Salinas,FALSO
+23/12/2016,Adicional,Nacional,Ecuador,Navidad-2,FALSO
+24/12/2016,Adicional,Nacional,Ecuador,Navidad-1,FALSO
+25/12/2016,Festivo,Nacional,Ecuador,Navidad,FALSO
+26/12/2016,Adicional,Nacional,Ecuador,Navidad+1,FALSO
+31/12/2016,Adicional,Nacional,Ecuador,Primer dia del ano-1,FALSO
+01/01/2017,Festivo,Nacional,Ecuador,Primer dia del ano,VERDADERO
+02/01/2017,Transferido,Nacional,Ecuador,Traslado Primer dia del ano,FALSO
+27/02/2017,Festivo,Nacional,Ecuador,Carnaval,FALSO
+28/02/2017,Festivo,Nacional,Ecuador,Carnaval,FALSO
+02/03/2017,Festivo,Local,Manta,Fundacion de Manta,FALSO
+01/04/2017,Festivo,Regional,Cotopaxi,Provincializacion de Cotopaxi,FALSO
+12/04/2017,Festivo,Local,Cuenca,Fundacion de Cuenca,VERDADERO
+13/04/2017,Transferido,Local,Cuenca,Fundacion de Cuenca,FALSO
+14/04/2017,Festivo,Local,Libertad,Cantonizacion de Libertad,FALSO
+14/04/2017,Festivo,Nacional,Ecuador,Viernes Santo,FALSO
+21/04/2017,Festivo,Local,Riobamba,Cantonizacion de Riobamba,FALSO
+01/05/2017,Festivo,Nacional,Ecuador,Dia del Trabajo,FALSO
+12/05/2017,Festivo,Local,Puyo,Cantonizacion del Puyo,FALSO
+13/05/2017,Adicional,Nacional,Ecuador,Dia de la Madre-1,FALSO
+14/05/2017,Evento,Nacional,Ecuador,Dia de la Madre,FALSO
+24/05/2017,Festivo,Nacional,Ecuador,Batalla de Pichincha,VERDADERO
+26/05/2017,Transferido,Nacional,Ecuador,Traslado Batalla de Pichincha,FALSO
+23/06/2017,Festivo,Local,Guaranda,Cantonizacion de Guaranda,FALSO
+25/06/2017,Festivo,Regional,Imbabura,Provincializacion de Imbabura,FALSO
+25/06/2017,Festivo,Local,Latacunga,Cantonizacion de Latacunga,FALSO
+25/06/2017,Festivo,Local,Machala,Fundacion de Machala,FALSO
+03/07/2017,Festivo,Local,El Carmen,Cantonizacion de El Carmen,FALSO
+03/07/2017,Festivo,Local,Santo Domingo,Fundacion de Santo Domingo,FALSO
+23/07/2017,Festivo,Local,Cayambe,Cantonizacion de Cayambe,FALSO
+24/07/2017,Adicional,Local,Guayaquil,Fundacion de Guayaquil-1,FALSO
+25/07/2017,Adicional,Local,Guayaquil,Fundacion de Guayaquil,FALSO
+05/08/2017,Festivo,Local,Esmeraldas,Fundacion de Esmeraldas,FALSO
+10/08/2017,Festivo,Nacional,Ecuador,Primer Grito de Independencia,VERDADERO
+11/08/2017,Transferido,Nacional,Ecuador,Traslado Primer Grito de Independencia,FALSO
+15/08/2017,Festivo,Local,Riobamba,Fundacion de Riobamba,FALSO
+24/08/2017,Festivo,Local,Ambato,Fundacion de Ambato,FALSO
+28/09/2017,Festivo,Local,Ibarra,Fundacion de Ibarra,VERDADERO
+29/09/2017,Transferido,Local,Ibarra,Fundacion de Ibarra,FALSO
+07/10/2017,Festivo,Local,Quevedo,Cantonizacion de Quevedo,FALSO
+09/10/2017,Festivo,Nacional,Ecuador,Independencia de Guayaquil,FALSO
+02/11/2017,Festivo,Nacional,Ecuador,Dia de Difuntos,FALSO
+03/11/2017,Festivo,Nacional,Ecuador,Independencia de Cuenca,FALSO
+06/11/2017,Festivo,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,FALSO
+07/11/2017,Festivo,Regional,Santa Elena,Provincializacion Santa Elena,FALSO
+10/11/2017,Festivo,Local,Guaranda,Independencia de Guaranda,FALSO
+11/11/2017,Festivo,Local,Latacunga,Independencia de Latacunga,FALSO
+12/11/2017,Festivo,Local,Ambato,Independencia de Ambato,FALSO
+05/12/2017,Adicional,Local,Quito,Fundacion de Quito-1,FALSO
+06/12/2017,Festivo,Local,Quito,Fundacion de Quito,VERDADERO
+08/12/2017,Festivo,Local,Loja,Fundacion de Loja,FALSO
+08/12/2017,Transferido,Local,Quito,Traslado Fundacion de Quito,FALSO
+21/12/2017,Adicional,Nacional,Ecuador,Navidad-4,FALSO
+22/12/2017,Festivo,Local,Salinas,Cantonizacion de Salinas,FALSO
+22/12/2017,Adicional,Nacional,Ecuador,Navidad-3,FALSO
+23/12/2017,Adicional,Nacional,Ecuador,Navidad-2,FALSO
+24/12/2017,Adicional,Nacional,Ecuador,Navidad-1,FALSO
+25/12/2017,Festivo,Nacional,Ecuador,Navidad,FALSO
+26/12/2017,Adicional,Nacional,Ecuador,Navidad+1,FALSO
